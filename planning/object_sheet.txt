@@ -1,0 +1,19 @@
+==========================================================================================
+| Name                                                                                   |
+| A ball of twine                                                                        |
+|----------------------------------------------------------------------------------------|
+| Description: Astartes are considerably larger then normal humans, and because of this  |
+| many of their weapons and tools are purpose designed for their use. Being heavier, and |
+| bulkier then normal weapons, it takes specialized training to use them with out        |
+| negative effects.                                                                      |
+|----------------------------------------------------------------------------------------|
+| Weight       | Type                | Estimated Value                                   |
+| .04 kilos    | Rope                |  .01 Gelds                                        |    
+==========================================================================================
+
+
+* name of the objext
+* weight of the object
+* estimated value of the object
+* type of object
+* description of the object
