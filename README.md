@@ -7,7 +7,9 @@ The story generation itself will be done through a series of nodes with each nod
 
 Example:
 
-The characters used in this segment will be 1- Invictus and 2- a Training Drone projecting the image of a Chaos Cultist. 
+The characters used in this segment will be 
+- Invictus, a Space marine
+- a Training Drone projecting the image of a Chaos Cultist. 
 
 Invictus is called on to make a weapon skill check to determine if his attack strikes the training drone or not. There are two possible outcomes of this test: Invictus passes the test, or Invictus fails the test.
 
