@@ -238,4 +238,5 @@ If the value is equal to, or under the ballistic skill plus the difficulty, the 
 Following the completion of this process, the function will display a 'SHOT MISSED' or a 'SHOT MADE WITH X degrees of success'
 
 #### Phase 2- Pick it up
+This phase will focus on the ability of a character object to pick up an object and place it into their inventory. 
 
