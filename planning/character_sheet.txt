@@ -1,0 +1,17 @@
+================================================================================
+|                                     Bob                                      |
+|                                Characteristics                               |
+--------------------------------------------------------------------------------
+|   WS  |   BS  |    S  |    T  |   Ag  |   Int   |   Per   |   WP   |   Fel   |
+|   XX  |   XX  |   XX  |   XX  |   XX  |   XX    |   XX    |   XX   |    XX   |
+--------------------------------------------------------------------------------
+|                               Character Skills                               |
+| Awareness [Trained]      Barter [Basic]            Blather [Basic]           |
+| Carouse [Basic]          Charm [Basic]             Evaluate [Basic]          |
+| Lore-Xenos [Trained]     Lore-Traitor Legion [trained]                       |
+| Deceive [basic]          Demolition [Basic]        Trade [Untrained]         |
+--------------------------------------------------------------------------------
+|                             Character Abilities                              |
+| Unnatural Strength       Unnatural Toughness       Heightened Senses(Sight)  |
+| Heightened Senses (Hearing)                                                  |
+--------------------------------------------------------------------------------

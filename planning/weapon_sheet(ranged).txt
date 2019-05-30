@@ -1,0 +1,7 @@
+==========================================================================================
+| The Emperors Right Hand of Wrath                                                       |
+| Type: Bolter  | Class: Basic Ranged Weapon                                             |
+| Range: 150 Meters         |   Rate of fire: S/2/4    | Damage: 6-26                    |
+| Damage Type: Ballistic    | Pen. Rating: 5           |   Supply type: Clip             |
+| Reload time: 1 turn       | Special: Tearing         | Empty Weight: 17 pounds         |
+==========================================================================================

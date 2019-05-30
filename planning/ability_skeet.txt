@@ -1,0 +1,12 @@
+==========================================================================================
+| Name                            | Pre-requisite                                        |
+| Astartes Weapon Specialisation  | none                                                 |
+|----------------------------------------------------------------------------------------|
+| Description: Astartes are considerably larger then normal humans, and because of this  |
+| many of their weapons and tools are purpose designed for their use. Being heavier, and |
+| bulkier then normal weapons, it takes specialized training to use them with out        |
+| negative effects.                                                                      |
+|----------------------------------------------------------------------------------------|
+| Benefit: A character with this ability count weapons as weighing 10 pounds lighter     |
+| then it would normally be counted as.                                                  |       
+==========================================================================================

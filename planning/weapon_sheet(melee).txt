@@ -1,0 +1,6 @@
+==========================================================================================
+| Astarted Fist of Righteous Doom                                                        |
+| Type: Power Fist                | Class: Basic Melee Weapon                            |
+| Damage: 6-26                    | Pen. Rating: 9     | Supply type: Battery            |
+| Reload time: 1 turn             | Special: Tearing   | Empty Weight: 24 pounds         |
+==========================================================================================

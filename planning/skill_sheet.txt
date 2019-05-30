@@ -1,0 +1,11 @@
+====================================================================================================
+| FORBIDDEN LORE (Adeptus Mechanicus)   | Tests on: Intelligence    |  Rank: Master                |
+|--------------------------------------------------------------------------------------------------|
+| Description: All Forbidden Lore Skills represent knowledge forbidden or hidden to the average    |
+| citizen of the Imperium of Man. In many cases, it is a heinous crime to even possess such        | 
+| knowledge. Though a Heretic in BLACK CRUSADE has nothing but contempt for the Imperium’s         |
+| restrictions, such knowledge is forbidden for a reason, and is often highly dangerous. In other  |
+| cases, those within the group in question wish to keep such knowledge secret, and may go great   |
+| lengths to ensure this.                                                                          |
+====================================================================================================
+

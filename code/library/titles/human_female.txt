@@ -1,0 +1,22 @@
+Rogue Trader
+Lord
+Captain
+Duchess
+Dame
+Lady
+Baroness
+Damme
+Arch Zealot
+Countess
+Viscount
+Viscountess
+Govenor
+Governess
+Grand Dame
+High Lord
+High Lady
+Overseer
+Viceroy
+Marhsall
+Magister
+Vizier

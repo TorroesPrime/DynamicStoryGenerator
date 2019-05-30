@@ -1,0 +1,15 @@
+Rogue Trader
+Lord
+Captain
+Baron
+Duke
+Arch Zealot
+Count
+Viscount
+Govenor
+High Lord
+Overseer
+Viceroy
+Marhsall
+Magister
+Vizier
