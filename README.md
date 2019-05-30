@@ -21,6 +21,8 @@ If Invictus fails the weapon skill check, the following passage would be added t
 
 > The heft of the sword sliced through nothing but air, the combined weight of the weapon and the inertia of the failed attack pulling Invictus off balance. The cogitator controlling the training drone having calculated that the cultist would be able to dodge Invictus' attack and thus had moved aside to avoid the blow.
 
+The system would then load the next node, which would call on another test, determine the result, and so forth until it reaches a node that does not have a test condition and thus would generate the end of the story.
+
 ## Project plan:
 This is the plan and projections for the project. The project is divided into large phases that cover broad advancements and developments such as high level class development and methods, while lower sections will include things like creating sub-classes.
 ### phase 1- characters and objects
