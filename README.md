@@ -75,7 +75,8 @@ see: planning/character_sheet.txt
 * description of the skill
 
 Example Skill sheet:
-see: planning/skill_sheet.txt
+see: planning/skill_skeet.txt
+
 3 - Can generate an info card for ranged weapons that includes:
 * name of the weapon
 * type of the weapon
@@ -127,6 +128,16 @@ see: planning/ability_sheet.txt
 
 Examples psychic powers card:
 see: planning/psychic_power_sheet.txt
+
+7- Can generate an info card for 'objects' that includes:
+* name of the objext
+* weight of the object
+* estimated value of the object
+* type of object
+* description of the object
+
+Example: 
+see: planning/ object_sheet.txt
 
 ### Section 2- Divergent characters
 * create space marine class
@@ -198,4 +209,33 @@ see: planning/psychic_power_sheet.txt
 * create sub-class for Lord that will inherite from Necron class.	
 
 ### Section 4- objects
-Create sub-classes for different types of weapons
+Create sub-classes for different types of weapons including the following:
+* flame throwers
+* missile launchers
+* rockit launchers
+* power fists
+* chain fists
+* Lightning Claws
+
+### Section 5- Let's do something
+The first point of focus in this section is to modify the respective super classes to enable characters to perform the following actions:
+* shoot a randed weapon
+* pick up an object
+* conduct a skill check
+* conduct a characteristic check
+
+#### Phase 1- Shooting things
+In order to shoot something, a character must use an item, that is a weapon, that is a ranged weapon.
+In order to determine if their shot has hit, they will conduct a ballistic skill test as follows:
+declare difficulty: this is value ranging from 60 to -60 (trivially easy to master of masters is needed to be likely to make the shot)
+Add the difficulty to the characters Ballistic stat
+roll a D100.
+If the D100 value is more then the Ballistic skill plus difficulty the shot has missed
+If the value is equal to, or under the ballistic skill plus the difficulty, the shot has succeded.
+- Take the difference between the ballistic skill plus difficulty and the D100 result and divide it by 10 to determine the "Degree of success".
+- determine any additional results based on degree of success such as just hitting the target versus destroying the target.
+
+Following the completion of this process, the function will display a 'SHOT MISSED' or a 'SHOT MADE WITH X degrees of success'
+
+#### Phase 2- Pick it up
+
