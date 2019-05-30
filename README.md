@@ -15,13 +15,11 @@ Invictus is called on to make a weapon skill check to determine if his attack st
 
 If Invictus passes the weapon skill check, the following passage would be generated and added to the story being produced:
 
-"Invictus brought the sword around in a downward slash, bifurcating the target drone in a flurry of sparks, the image of a cultist being projected by it momentarily showing the simulated injury of having been sliced from left shoulder to right hip before flickering out of existence."
+> Invictus brought the sword around in a downward slash, bifurcating the target drone in a flurry of sparks, the image of a cultist being projected by it momentarily showing the simulated injury of having been sliced from left shoulder to right hip before flickering out of existence.
 
 If Invictus fails the weapon skill check, the following passage would be added to the story:
 
-"The heft of the sword sliced through nothing but air, the combined weight of the weapon and the inertia of the failed attack pulling Invictus off balance. The cogitator controlling the training drone having calculated that the cultist would be able to dodge Invictus' attack and thus had moved aside to avoid the blow."
-
-And then the program 
+> The heft of the sword sliced through nothing but air, the combined weight of the weapon and the inertia of the failed attack pulling Invictus off balance. The cogitator controlling the training drone having calculated that the cultist would be able to dodge Invictus' attack and thus had moved aside to avoid the blow.
 
 ## Project plan:
 This is the plan and projections for the project. The project is divided into large phases that cover broad advancements and developments such as high level class development and methods, while lower sections will include things like creating sub-classes.
