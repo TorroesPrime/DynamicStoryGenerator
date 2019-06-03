@@ -1,6 +1,8 @@
 from Character import *
+from race import *
 
-character_01 = character("Bob",10,10,10,10,10,10,10,10,10)
+raceHuman = race('Human')
+character_01 = character("Bob",10,10,10,10,10,10,10,10,10,raceHuman)
 
 print(character_01.name)
 print(character_01.statWeaponSkill)
