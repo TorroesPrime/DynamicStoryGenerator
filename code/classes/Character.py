@@ -1,6 +1,6 @@
 import strings
 import random
-from strings import width, header, divider, char, side, CharacteristicsHeaderLine
+from strings import width, header, divider, char, side, CharacteristicsHeaderLine, SkillsHeaderLine, AbilitiesHeaderLine
 class character:
     def __init__(self,name,weap,ball,stre,toug,agil,inte,perc,will,fell,race):
         self.name = name
@@ -65,10 +65,6 @@ class character:
             statRace = self.statRace.name[:6]
         else:
             statRace = self.statRace.name+(" "*(7-len(self.statRace.name)))
-   
-
-
-        
         #print('break_01:'+str(break_01))
         print(side+' '*break_01+name+' '*break_01+side)
         print(side+' '*break_02+char+' '+' '*break_02+side)
@@ -77,7 +73,17 @@ class character:
         print(side+statRace+side+statWeaponSkill+side+statBallisticSkill+side+statStrength+side+statT+side+statAg+side+statInt+side\
         +statPer+side+statWp+side+statFel+side+statFate+side+statCorr+side+statIns+side+statPsy+side)
         print(divider)
+        print(SkillsHeaderLine)
         print(divider)
-        
+        print(side+(" "*(width-2))+side)
+        print(divider)
+        print(AbilitiesHeaderLine)
+        print(divider)
+        print(side+(" "*(width-2))+side)
+        print(divider)    
+        print(SkillsHeaderLine)
+        print(divider)
+        print(side+(" "*(width-2))+side)
+        print(header)
 
 
