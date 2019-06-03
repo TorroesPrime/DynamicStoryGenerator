@@ -17,6 +17,13 @@ If the melee attack fails, the simulation ends with a chidding by the first char
 
 Following the conclusion of this test, the program will print out character sheets for both characters.
 
+## race.py
+
+This file contains the attributes and methods for the race class. 
+
+### self.name = name
+name of the race
+
 ## Character.py
 
 This file contains the attributes and methods for the character super class. 
