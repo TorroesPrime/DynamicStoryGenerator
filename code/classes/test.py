@@ -1,6 +1,6 @@
-from spaceMarineCharacter import *
+from Character import *
 
-character_01 = spaceMarineCharacter("Bob",10,10,10,10,10,10,10,10,10,'Space Wolves')
+character_01 = character("Bob",10,10,10,10,10,10,10,10,10,'Space Wolves')
 
 print(character_01.name)
 print(character_01.statWeaponSkill)

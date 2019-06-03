@@ -1,3 +1,19 @@
 width = 80
 header = "="*width
 divider = '-'*width
+char = "Characteristics"
+side = "|"
+charWs = " WS "
+charBs = " BS "
+charS = "  S "
+charT = "  T "
+charAg = " AG "
+charInt = " Int "
+charFel = " Fel "
+charWp = " WP "
+charPer = " Per "
+charCorr = " Corr "
+charIns = " Insanity "
+charPsy = " Psy "
+charFate = " Fate "
+CharacteristicsHeaderLine = side+charWs+side+charBs+side+charS+side+charT+side+charAg+side+charInt+side+charPer+side+charWp+side+charFel+side+charFate+side+charCorr+side+charIns+side+charPsy+side
