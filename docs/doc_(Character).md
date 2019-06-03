@@ -31,3 +31,11 @@ and integer that represents the characters insanity
 ### self.statPsy = 0
 an integer that represents the characters psy rating.
 
+### __genFatePoints__
+a private method that selects the number of fate points that a character starts with. A character can have 3, 4, or 5 fate points, with 5 being the least common. 
+
+### __characterSheet__
+The character sheet is private method that will generate a sheet displaying all of the stats and materials of a character.
+Because most of the basic stats are simple 2 digit integers, it's just a matter of adding sufficient spaces so the value lines up under the header for that stat. 
+
+Because the insanity, corruption and Psy rating can change during action, and thus will go from a single digit integer to a 2 digit one, there are checks for determining the length of the stat and thus how many spaces to add to the value.
