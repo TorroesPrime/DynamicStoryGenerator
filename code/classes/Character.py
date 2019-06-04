@@ -1,4 +1,4 @@
-import strings
+
 import random
 from strings import width, header, divider, char, side, CharacteristicsHeaderLine, SkillsHeaderLine, AbilitiesHeaderLine
 class Character:
@@ -18,6 +18,9 @@ class Character:
         self.statInsanity = 0
         self.statPsy = 0
         self.statRace = race
+        self.CharSkills = []
+        self.CharAbilities =[]
+
     
     def genFatePoints(self):
         fate = (3,3,3,3,3,3,3,4,4,5)

@@ -1,18 +1,19 @@
-from Character import *
+from character import *
 from race import *
+from skill import *
+RaceHuman = Race('Human')
+Character_01 = Character("Bob",10,10,10,10,10,10,10,10,10,RaceHuman)
+Skill_01 = Skill("Skill Name", "No pre-req","This is a description of the skill","Benefits of having the skill")
+print(Character_01.name)
+print(Character_01.statWeaponSkill)
+print(Character_01.statBallisticSkill)
+print(Character_01.statStrength)
+print(Character_01.statToughess)
+print(Character_01.statAgility)
+print(Character_01.statIntelligence)
+print(Character_01.statPerception)
+print(Character_01.statWillPower)
+print(Character_01.statFellowship)
 
-raceHuman = race('Human')
-character_01 = character("Bob",10,10,10,10,10,10,10,10,10,raceHuman)
-
-print(character_01.name)
-print(character_01.statWeaponSkill)
-print(character_01.statBallisticSkill)
-print(character_01.statStrength)
-print(character_01.statToughess)
-print(character_01.statAgility)
-print(character_01.statIntelligence)
-print(character_01.statPerception)
-print(character_01.statWillPower)
-print(character_01.statFellowship)
-
-character_01.__characterSheet__()
+Character_01.characterSheet()
+Skill_01.SkillSheet()
