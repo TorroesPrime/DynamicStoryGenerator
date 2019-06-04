@@ -1,7 +1,7 @@
 import strings
 import random
 from strings import width, header, divider, char, side, CharacteristicsHeaderLine, SkillsHeaderLine, AbilitiesHeaderLine
-class character:
+class Character:
     def __init__(self,name,weap,ball,stre,toug,agil,inte,perc,will,fell,race):
         self.name = name
         self.statWeaponSkill = weap
@@ -13,18 +13,18 @@ class character:
         self.statPerception = perc
         self.statWillPower = will
         self.statFellowship = fell
-        self.statFate = self.__genFatePoints__()
+        self.statFate = self.genFatePoints()
         self.statCorruption = 0
         self.statInsanity = 0
         self.statPsy = 0
         self.statRace = race
     
-    def __genFatePoints__(self):
+    def genFatePoints(self):
         fate = (3,3,3,3,3,3,3,4,4,5)
         return(random.choice(fate))
 
 
-    def __characterSheet__(self):
+    def characterSheet(self):
         print(header)
         if len(self.name)/2 != 2:
             name = self.name+" "
