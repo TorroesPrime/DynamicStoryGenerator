@@ -3,7 +3,7 @@ from race import *
 from skill import *
 RaceHuman = Race('Human')
 Character_01 = Character("Bob",10,10,10,10,10,10,10,10,10,RaceHuman)
-Skill_01 = Skill("Skill Name", "No pre-req","This is a description of the skill","Benefits of having the skill")
+Skill_01 = Skill("Skill Name", "No pre-req","This is a description of the skill","Benefits of having the skill","Untrained")
 print(Character_01.name)
 print(Character_01.statWeaponSkill)
 print(Character_01.statBallisticSkill)
