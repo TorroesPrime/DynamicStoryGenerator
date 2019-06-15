@@ -16,7 +16,6 @@ If the shooting attack is unsuccessful, they will conduct a melee attack against
 If the melee attack fails, the simulation ends with a chidding by the first characters' commanding officer.
 
 Following the conclusion of this test, the program will print out character sheets for both characters.
-
 ## race.py
 
 This file contains the attributes and methods for the race class. 
@@ -49,7 +48,7 @@ an integer that represents the characters will power
 ### self.statFellowship = fell
 an integer that represents the characters fellowship
 ### self.statFate = self.__genFatePoints__()
-an integer that is the result of the __genFatePoints__ method.
+an integer that is the result of the genFatePoints method.
 ### self.statCorruption = 0
 an integer that represents the characters corruption
 ### self.statInsanity = 0
@@ -68,3 +67,6 @@ Because the insanity, corruption and Psy rating can change during action, and th
 
 ## Skill
 The class for skill objects.
+
+### SkillSheet
+Generates a skill sheet for a skill object that includes the name of the skill, any pre-requisits for the skill, a description of the skill, the benefits of the skill, and training level of the skill.
