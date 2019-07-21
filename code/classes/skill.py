@@ -2,7 +2,7 @@ import textwrap
 from strings import width, header, divider, side, SkillsHeaderLine, AbilitiesHeaderLine, SkillName, skills
 
 class Skill:
-    def __init__(self, name, prereq,descrip,benefit, level):
+    def __init__(self, name, prereq, descrip, benefit, level):
         self.name =name
         self.prereq = prereq
         self.descrip = descrip
